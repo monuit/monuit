@@ -15,7 +15,7 @@ I'm currently a finance data scientist at [Definity](https://www.definityfinanci
 🍌 Don't forget to get some Potassium 🍌
 
 <video width="330" height="330" controls>
-  <source src="https://github.com/monuit/monuit/raw/main/assets/my_future_self_when_i_write_code_that_i_dont_recognize_in_one_week.mp4" type="video/mp4">
+  <source src="https://github-production-user-asset-6210df.s3.amazonaws.com/24978328/258260811-91e3fbd2-93ba-4b44-8319-f054830297d4.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
