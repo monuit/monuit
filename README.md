@@ -14,7 +14,12 @@ I'm currently a finance data scientist at [Definity](https://www.definityfinanci
 
 🍌 Don't forget to get some Potassium 🍌
 
-[![Video Title](https://github.com/monuit/monuit/raw/main/assets/my_future_self_when_i_write_code_that_i_dont_recognize_in_one_week.png =300x300)](https://github.com/monuit/monuit/raw/main/assets/my_future_self_when_i_write_code_that_i_dont_recognize_in_one_week.mp4)
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
+  <video width="330" height="330" controls>
+    <source src="https://github.com/monuit/monuit/raw/main/assets/my_future_self_when_i_write_code_that_i_dont_recognize_in_one_week.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ## ⚡️ A Few Quick Facts
 
@@ -27,26 +32,26 @@ I'm currently a finance data scientist at [Definity](https://www.definityfinanci
 ## 🚀 Some Tools I Use
 
 <div style="display: flex; flex-direction: row; align-items: center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="22" height="22" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="AngularJS" width="22" height="22" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="22" height="22" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="22" height="22" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="22" height="22" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="22" height="22" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="22" height="22" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="22" height="22" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="22" height="22" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="22" height="22" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="22" height="22" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="22" height="22" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="22" height="22" style="margin-right: 15px;">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="22" height="22" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="22" height="22" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="Heroku" width="22" height="22" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" alt="Travis" width="22" height="22" style="margin-right: 15px;">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="22" height="22" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="22" height="22" style="margin-right: 15px;">
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="22" height="22" style="margin-right: 15px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="24" height="24" style="margin-right: 26px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="AngularJS" width="24" height="24" style="margin-right: 26px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="24" height="24" style="margin-right: 26px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="24" height="24" style="margin-right: 26px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="24" height="24" style="margin-right: 26px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="24" height="24" style="margin-right: 26px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="24" height="24" style="margin-right: 26px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="24" height="24" style="margin-right: 26px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="24" height="24" style="margin-right: 26px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="24" height="24" style="margin-right: 26px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="24" height="24" style="margin-right: 26px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="24" height="24" style="margin-right: 26px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="24" height="24" style="margin-right: 26px;">
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="24" height="24" style="margin-right: 26px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="24" height="24" style="margin-right: 26px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="Heroku" width="24" height="24" style="margin-right: 26px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" alt="Travis" width="24" height="24" style="margin-right: 26px;">
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="24" height="24" style="margin-right: 26px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="24" height="24" style="margin-right: 26px;">
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="24" height="24" style="margin-right: 26px;">
 </div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monuit&show_icons=true&count_private=true)
