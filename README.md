@@ -14,10 +14,7 @@ I'm currently a finance data scientist at [Definity](https://www.definityfinanci
 
 🍌 Don't forget to get some Potassium 🍌
 
-<video width="330" height="330" controls>
-  <source src="https://github-production-user-asset-6210df.s3.amazonaws.com/24978328/258260811-91e3fbd2-93ba-4b44-8319-f054830297d4.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github-production-user-asset-6210df.s3.amazonaws.com/24978328/258260811-91e3fbd2-93ba-4b44-8319-f054830297d4.mp4
 
 ## ⚡️ A Few Quick Facts
 
