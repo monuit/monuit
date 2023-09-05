@@ -6,7 +6,7 @@ import { nowPlaying } from "../utils/spotify";
 
 export default async function (req: NowRequest, res: NowResponse) {
   const {
-    item = {},
+    item = ({} as any),
     is_playing: isPlaying = false,
     progress_ms: progress = 0,
   } = await nowPlaying();
