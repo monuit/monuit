@@ -14,12 +14,10 @@ I'm currently a finance data scientist at [Definity](https://www.definityfinanci
 
 🍌 Don't forget to get some Potassium 🍌
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
-  <video width="330" height="330" controls>
-    <source src="https://github.com/monuit/monuit/raw/main/assets/my_future_self_when_i_write_code_that_i_dont_recognize_in_one_week.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+<video width="330" height="330" controls>
+  <source src="https://github.com/monuit/monuit/raw/main/assets/my_future_self_when_i_write_code_that_i_dont_recognize_in_one_week.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## ⚡️ A Few Quick Facts
 
