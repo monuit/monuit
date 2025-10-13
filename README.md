@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hi%2C+I'm+Mo%2C+an+aspiring+data+scientist;I'm+really+fascinated+by+AI+and+ML;and+looking+to+expand+what+I+do;lets+connect)](https://git.io/typing-svg)
 
-I'm currently a finance data scientist at [Definity](https://www.definityfinancial.com/) and formerly at [Reckitt](https://www.reckitt.com/) based in Toronto. I am working on some side projects.
+I'm currently working on all things related to AI. Read my AI slop here (https://x.com/moevals)
 
 <!-- ![Website Badge](https://img.shields.io/badge/-monuit.dev-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://monuit.dev/) -->
 
