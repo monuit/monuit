@@ -1,54 +1,71 @@
-## Hey 👋, I'm [Mo]
+## Hey 👋, I'm Mo
 
-<!-- (https://monuit.dev/) -->
+[![Website Badge](https://img.shields.io/badge/-monuit.dev-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox&link=https://monuit.dev/)](https://monuit.dev/)
+[![LinkedIn Badge](https://img.shields.io/badge/-@mo-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/mo-abdulhussain/)](https://www.linkedin.com/in/mo-abdulhussain/)
+[![Spotify Badge](https://img.shields.io/badge/-@Mo-shititshim?style=flat-square&labelColor=1DB954&logo=Spotify&link=https://open.spotify.com/user/shititshim)](https://open.spotify.com/user/shititshim)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hi%2C+I'm+Mo%2C+an+aspiring+data+scientist;I'm+really+fascinated+by+AI+and+ML;and+looking+to+expand+what+I+do;lets+connect)](https://git.io/typing-svg)
+---
 
-I'm currently working on all things related to AI. Read my AI slop here (https://x.com/moevals)
-
-<!-- ![Website Badge](https://img.shields.io/badge/-monuit.dev-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://monuit.dev/) -->
-
-![LinkedIn Badge](https://img.shields.io/badge/-@mo-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://https://www.linkedin.com/in/mo-abdulhussain/)
-
-![Spotify Badge](https://img.shields.io/badge/-@Mo-shititshim?style=flat-square&labelColor=fff&logo=Spotify&link=https://open.spotify.com/user/shititshim)
+> 🧠 AI explorer, aspiring data scientist, and fascinated by all things machine learning.
+>
+> Learning **Reinforcement Learning** + designing stuff.  
+> Read my AI thoughts and slop: [@moevals on X](https://x.com/moevals)
 
 🍌 Don't forget to get some Potassium 🍌
 
-https://github.com/Xetera/xetera/assets/24978328/91e3fbd2-93ba-4b44-8319-f054830297d4
+![Random Banana](https://github.com/Xetera/xetera/assets/24978328/91e3fbd2-93ba-4b44-8319-f054830297d4)
 
-## ⚡️ A Few Quick Facts
+---
 
-- 🔭 I’m currently working on smol-ai, cursor, and training LLMs.
-- 🧐 Learning about **serverless architectures**, **distributed systems**, and a bit of **ML**.
-- 👨‍💻 Most of my projects are available on [Github](https://github.com/monuit).
-- 💬 Ping me about **ML, koa, security, and cloud stuff**.
-- 🎉 Fun Fact: Ive done climbing and via ferrata
+### ⚡️ Quick Facts
 
-## 🚀 Some Tools I Use
+- 🧐 Learning about serverless architectures, distributed systems, and ML.
+- 👨‍💻 Most of my projects are [on Github](https://github.com/monuit).
+- 💬 Ping me about ML, Koa, security, and cloud stuff.
+- 🎉 Fun Fact: I've done climbing and via ferrata.
 
-<div style="display: flex; flex-direction: row; align-items: center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="24" height="24" style="margin-right: 26px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="AngularJS" width="24" height="24" style="margin-right: 26px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="24" height="24" style="margin-right: 26px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="24" height="24" style="margin-right: 26px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="24" height="24" style="margin-right: 26px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="24" height="24" style="margin-right: 26px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="24" height="24" style="margin-right: 26px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="24" height="24" style="margin-right: 26px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="24" height="24" style="margin-right: 26px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="24" height="24" style="margin-right: 26px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="24" height="24" style="margin-right: 26px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="24" height="24" style="margin-right: 26px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="24" height="24" style="margin-right: 26px;">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="24" height="24" style="margin-right: 26px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="24" height="24" style="margin-right: 26px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="Heroku" width="24" height="24" style="margin-right: 26px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" alt="Travis" width="24" height="24" style="margin-right: 26px;">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="24" height="24" style="margin-right: 26px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="24" height="24" style="margin-right: 26px;">
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="24" height="24" style="margin-right: 26px;">
-</div>
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monuit&show_icons=true&count_private=true)
+### 🚀 Tech I Use
 
-![HitCount](https://hits.dwyl.com/monuit/monuit/monuit.svg?style=flat-square)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="AngularJS" width="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="32" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="Heroku" width="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" alt="Travis" width="32" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="32" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="32" />
+</p>
+
+---
+
+### 📫 Get In Touch
+
+- Email: [mo@monuit.dev](mailto:mo@monuit.dev)
+- DM on [LinkedIn](https://www.linkedin.com/in/mo-abdulhussain/)
+- Chat on [Twitter/X](https://x.com/moevals)
+
+---
+
+<details>
+  <summary>More About Me</summary>
+  <ul>
+    <li>🌍 Based in Toronto</li>
+    <li>🎵 Music lover (see my <a href="https://open.spotify.com/user/shititshim">Spotify</a>)</li>
+    <li>🤖 Always tinkering with AI/ML projects</li>
+  </ul>
+</details>
